@@ -1,0 +1,11 @@
+Model Information:
+* title:	ferrari sf90
+* source:	https://sketchfab.com/3d-models/ferrari-sf90-af940e71d82b4887a8281fd78f3ec627
+* author:	theo9728 (https://sketchfab.com/theo9728)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ferrari sf90" (https://sketchfab.com/3d-models/ferrari-sf90-af940e71d82b4887a8281fd78f3ec627) by theo9728 (https://sketchfab.com/theo9728) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
